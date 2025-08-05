@@ -1,4 +1,4 @@
- [Your Project Name/Dashboard Title] - Tableau Analysis
+Tableau Analysis
 Overview
 
 This repository hosts the Tableau workbook and supporting documentation for an in-depth data analysis project focusing on [briefly state the project's main goal or topic, e.g., "Sales Performance Across Regions," "Customer Churn Analysis," "Website Traffic Trends"]. This dashboard aims to provide interactive insights into [mention key aspects, e.g., "key performance indicators," "underlying patterns," "driver analysis"].
