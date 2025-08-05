@@ -19,7 +19,6 @@ This dashboard leverages various Tableau chart types and analytical concepts to 
 - Sales by Product Category to identify top-performing categories.
 - Customer Count by Region to analyze geographic distribution.
 
-![Screenshot of a Bar Chart](replace-with-bar-chart-screenshot.png)
 
 ### 2. Line Charts
 
@@ -29,7 +28,6 @@ This dashboard leverages various Tableau chart types and analytical concepts to 
 - Monthly Revenue Trend to observe seasonal patterns.
 - Daily Website Visitors to identify peak traffic periods.
 
-![Screenshot of a Line Chart](replace-with-line-chart-screenshot.png)
 
 ### 3. Area Charts
 
@@ -39,7 +37,6 @@ This dashboard leverages various Tableau chart types and analytical concepts to 
 - Cumulative Sales by Quarter.
 - Stacked Area Chart for Product Sub-Category contributions.
 
-![Screenshot of an Area Chart](replace-with-area-chart-screenshot.png)
 
 ### 4. Histograms
 
@@ -49,7 +46,6 @@ This dashboard leverages various Tableau chart types and analytical concepts to 
 - Customer Age Distribution.
 - Order Value Distribution.
 
-![Screenshot of a Histogram](replace-with-histogram-screenshot.png)
 
 ### 5. Group By Concept
 
